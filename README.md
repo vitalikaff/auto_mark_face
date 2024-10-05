@@ -38,8 +38,7 @@
 
 1. Клонируйте проект:
    ```bash
-   git clone <ссылка-на-репозиторий>
-   cd <название-папки-с-проектом>
+   git clone https://github.com/vitalikaff/auto_mark_face.git
    ```
 
 2. Установите необходимые зависимости:
