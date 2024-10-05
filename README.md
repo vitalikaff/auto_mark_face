@@ -38,7 +38,7 @@
 
 1. Клонируйте проект:
    ```bash
-   git clone https://github.com/vitalikaff/auto_mark_face.git
+   git clone https://github.com/vitalikaff/auto_mark_face
    ```
 
 2. Установите необходимые зависимости:
